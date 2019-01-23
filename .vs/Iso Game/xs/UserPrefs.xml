@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{2802C710-CA03-EAE4-A7DC-675F0D3A12C2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/target.js">
+    <Files>
+      <File FileName="Assets/CharController.cs" Line="56" Column="6" />
+      <File FileName="Assets/cameraFollow.cs" Line="13" Column="42" />
+      <File FileName="Assets/colorChange.cs" Line="7" Column="12" />
+      <File FileName="Assets/SeekPlayer.cs" Line="38" Column="6" />
+      <File FileName="Assets/target.js" Line="65" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
