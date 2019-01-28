@@ -1,11 +1,14 @@
 ﻿<Properties StartupConfiguration="{2802C710-CA03-EAE4-A7DC-675F0D3A12C2}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/target.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/spawnSpikes.cs">
     <Files>
       <File FileName="Assets/CharController.cs" Line="56" Column="6" />
       <File FileName="Assets/cameraFollow.cs" Line="13" Column="42" />
       <File FileName="Assets/colorChange.cs" Line="7" Column="12" />
       <File FileName="Assets/SeekPlayer.cs" Line="38" Column="6" />
-      <File FileName="Assets/target.js" Line="65" Column="1" />
+      <File FileName="Assets/target.js" Line="24" Column="2" />
+      <File FileName="Assets/FollowPlayer.cs" Line="52" Column="60" />
+      <File FileName="Assets/instantiate.cs" Line="10" Column="35" />
+      <File FileName="Assets/spawnSpikes.cs" Line="19" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

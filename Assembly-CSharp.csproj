@@ -64,6 +64,8 @@
     <Compile Include="Assets\cameraFollow.cs" />
     <Compile Include="Assets\CharController.cs" />
     <Compile Include="Assets\colorChange.cs" />
+    <Compile Include="Assets\FollowPlayer.cs" />
+    <Compile Include="Assets\instantiate.cs" />
     <Compile Include="Assets\LowPolyNature\Scripts\Axe.cs" />
     <Compile Include="Assets\LowPolyNature\Scripts\Crate.cs" />
     <Compile Include="Assets\LowPolyNature\Scripts\DamageSource.cs" />
@@ -93,20 +95,21 @@
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
     <Compile Include="Assets\SeekPlayer.cs" />
     <Compile Include="Assets\SpawnMeteor.cs" />
+    <Compile Include="Assets\spawnSpikes.cs" />
     <None Include="Assets\Low Poly Buildings Lite\ReadMe.txt" />
     <None Include="Assets\2D_Pixel_Art_Isometric_Blocks_Devils_Garage_v04\readme.txt" />
     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/yashpatil/Downloads/Iso Game/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/yashpatil/Documents/Iso Game/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/yashpatil/Downloads/Iso Game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/yashpatil/Documents/Iso Game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/yashpatil/Downloads/Iso Game/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/yashpatil/Documents/Iso Game/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/yashpatil/Downloads/Iso Game/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/yashpatil/Documents/Iso Game/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
